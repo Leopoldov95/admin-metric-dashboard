@@ -1,8 +1,11 @@
-# Employee Metrics Dashboard
+# Admin Metrics Dashboard
 
 ## Project Overview
 
-The Employee Metrics Dashboard is a web application designed to simplify the process of analyzing and visualizing employee performance data stored in Google Sheets. This application provides team leads with interactive tools to filter and display metrics such as time to complete work, accuracy, on-time completion vs. late tasks, and the number of tickets handled.
+> [!NOTE]
+> Due to this being a workplace project, I am unable to provide specific code. This README will however give a high level overview of the application as well as the technology used.
+
+The Admin Metrics Dashboard is a web application designed to simplify the process of analyzing and visualizing employee performance data stored in Google Sheets and Excel Spreadsheets by consolidating it into JSON and served via REST API. This application provides team leads with interactive tools to filter and display metrics such as time to complete work, accuracy, on-time completion vs. late tasks, and the number of tickets handled.
 
 ## Features
 
@@ -40,7 +43,8 @@ The Employee Metrics Dashboard is a web application designed to simplify the pro
 
 ## Impact
 
-The implementation of this dashboard has significantly streamlined the process of analyzing employee performance metrics. Team leads are now able to:
+The implementation of this dashboard has streamlined the process of analyzing employee performance metrics. Team leads are now able to:
 
 - Save time during one-on-one meetings with their direct reports.
 - Make more informed decisions regarding employee performance.
+- Understand the performance and impact of the work being delivered by their direct reports.
